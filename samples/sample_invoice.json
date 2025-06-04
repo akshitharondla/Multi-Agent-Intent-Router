@@ -1,0 +1,11 @@
+
+{
+  "invoice_id": "INV-202406",
+  "vendor": "Acme Corp",
+  "amount": 12500.00,
+  "due_date": "2025-07-01",
+  "line_items": [
+    {"description": "Widget A", "quantity": 50, "unit_price": 100},
+    {"description": "Widget B", "quantity": 25, "unit_price": 200}
+  ]
+}
